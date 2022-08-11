@@ -1,3 +1,9 @@
 body{
     font-family: 'Courier New', Courier, monospace;
 }
+
+form{
+    border: solid 1px #ccc;
+    width: 500px;
+   margin: 0 auto;
+}
